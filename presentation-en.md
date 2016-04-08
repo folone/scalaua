@@ -3,8 +3,6 @@
 
 ![](https://cdn.eyeem.com/thumb/900/900/875ca603aa93985dfba529d82407d198ef9cad3d?highRes=true)
 
-[http://j.mp/tlc-talk](http://j.mp/tlc-talk)
-
 [https://github.com/folone/scalaua](https://github.com/folone/scalaua)
 
 ---
