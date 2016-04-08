@@ -3,6 +3,8 @@
 
 ![](https://cdn.eyeem.com/thumb/900/900/875ca603aa93985dfba529d82407d198ef9cad3d?highRes=true)
 
+http://j.mp/tlc-talk
+
 https://github.com/folone/scalaua
 
 ---
@@ -21,8 +23,6 @@ https://github.com/folone/scalaua
 
 ![fill inline](https://i1.sndcdn.com/avatars-000115643651-71o36c-t500x500.jpg)![fill inline](https://i1.sndcdn.com/artworks-000037484402-x8gfft-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000138955484-r3yxsu-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000114613706-sva2ir-t500x500.jpg)
 ![fill inline](https://i1.sndcdn.com/avatars-000109087465-2uqbx8-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000055035285-1i17eh-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000077357035-7tbvde-t500x500.jpg)![fill inline](https://i1.sndcdn.com/artworks-000146844911-mgxgza-t500x500.jpg)
-
-^ todo: something in the background?
 
 ---
 
@@ -431,6 +431,8 @@ val x: (t => t < 10 && t > 5).type = 7
 
 [^3]: https://github.com/typelevel/scala/issues/28 -- `@implicitWeight`
 
+There's a Prolog in your Scala
+
 ^ Презентация Адриаана
 ^ There's a prolog in your scala
 
@@ -483,6 +485,3 @@ scalaOrganization := "org.typelevel"
 # [fit] Спасибо!
 
 ![](https://cdn.eyeem.com/thumb/900/900/cf7f3b70599927b329a4e56040f11e92084a0b40?highRes=true)
-
-
-^ TODO: case study: how to add a macro to the compiler
