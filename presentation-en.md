@@ -21,19 +21,19 @@
 
 ---
 
-![fill inline](https://i1.sndcdn.com/avatars-000115643651-71o36c-t500x500.jpg)![fill inline](https://i1.sndcdn.com/artworks-000037484402-x8gfft-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000138955484-r3yxsu-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000114613706-sva2ir-t500x500.jpg)
+![fill inline](https://i1.sndcdn.com/avatars-000115643651-71o36c-t500x500.jpg)![fill inline](https://i1.sndcdn.com/artworks-000037484402-x8gfft-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000138955484-r3yxsu-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000207169396-qjliyo-t500x500.jpg)
 ![fill inline](https://i1.sndcdn.com/avatars-000109087465-2uqbx8-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000055035285-1i17eh-t500x500.jpg)![fill inline](https://i1.sndcdn.com/avatars-000077357035-7tbvde-t500x500.jpg)![fill inline](https://i1.sndcdn.com/artworks-000146844911-mgxgza-t500x500.jpg)
 
 ---
 
 * 12 hours uploaded every minute
 * ~35k listening years every month
-* >125M tracks
+* >125M tracks (including content from majors: Sony/Universal/Warner)
 * ~170M monthly active users
 
 ![left](https://cdn.eyeem.com/thumb/900/900/72a3ad530c5b60e4b6077536aecce56cbdf526c0?highRes=true)
 
-^ quite unique
+^ quite unique: major labes and dark underground
 ^ 4x spotify audio (>1PB vs >5PB)
 ^ 10x smaller team than spotify
 ^ a lot more interactive, as in the next slide
