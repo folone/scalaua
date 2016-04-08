@@ -1,5 +1,5 @@
 # [fit] :wave:
-# Меня зовут @folone
+# My name is @folone
 
 ![](https://cdn.eyeem.com/thumb/900/900/875ca603aa93985dfba529d82407d198ef9cad3d?highRes=true)
 
@@ -26,17 +26,17 @@
 
 ---
 
-* 12 часов звуков ~10 миллионов создателей аплоадят каждую минуту
-* ~35k лет прослушивания ежемесячно
-* >125M треков (в.т.ч. контент от мейджор лейблов: Sony/Universal/Warner)
-* ~170M активных пользователей каждый месяц
+* 12 hours uploaded every minute
+* ~35k listening years every month
+* >125M tracks
+* ~170M monthly active users
 
 ![left](https://cdn.eyeem.com/thumb/900/900/72a3ad530c5b60e4b6077536aecce56cbdf526c0?highRes=true)
 
-^ в уникальной позиции мейджор лейблы и черный андерграунд, рассказать про лорде
-^ 4x spotify audio (>1PB vs >5PB, 30M tracks vs 125M tracks)
-^ 10x меньше людей чем в спотифае
-^ гораздо более интерактивная платформа: пользователи напрямую интерактят с артистами
+^ quite unique
+^ 4x spotify audio (>1PB vs >5PB)
+^ 10x smaller team than spotify
+^ a lot more interactive, as in the next slide
 ^ by a huge margin bigger than any competitor in both usage and amount of data (collection size)
 ^ except for youtube: that's bigger, but they aren't in the audio business per se
 
@@ -44,7 +44,7 @@
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/0L1T380N1X3l262F3n3q/Image%202015-08-28%20at%203.51.58%20pm.png)
 
-^ благодаря очень социальной натуре платформы, у нас бывает множество таких вот моментов
+^ war stories, we have some fun challenges due to the social nature of soundcloud
 ^ Drake vs Meek Mill
 
 ---
@@ -55,7 +55,7 @@
 
 ![fill](http://www.scala-lang.org/resources/img/smooth-spiral@2x.png)
 
-^ история про рейлз-апп, микросервисы, бфф
+^ story about rails app
 ^ also clojure/jruby
 
 ---
@@ -67,20 +67,20 @@
 
 ---
 
-# [fit] T-L-_шта?_[^0]
+# [fit] T-L-_what now?_[^0]
 # [fit] *ಠ_ಠ*
 
 ![](https://cdn.eyeem.com/thumb/900/900/cb2220a35cd33c137a8e096e6471550253d80fe0?highRes=true)
 
 [^0]: http://typelevel.org/blog/2014/09/02/typelevel-scala.html
 
-^ TLC -- сокращение для "typelevel compiler". Имя активно эндорсится Дениелом Спиваком.
+^ TLC -- short for typelevel compiler. Name actively endorsed by Daniel Spiewak.
 ^ A scala fork made by the typelevel organization, to scratch an itch.
 ^ Typelevel Scala and the future of the Scala ecosystem
 
 ---
 
-# [fit] Мы :heart: ![Скалу](http://www.scala-lang.org/resources/img/smooth-spiral@2x.png)
+# [fit] We :heart: ![Scala](http://www.scala-lang.org/resources/img/smooth-spiral@2x.png)
 
 :ghost:
 
@@ -90,25 +90,20 @@
 
 ^ Trying to work around partial type application, infering higher-order types: SI-2712
 
-^ В итоге, мы взяли пару довольно базовых (но все еще довольно таки поломанных) фич языка - синглтон-типы, рефайнмент типы, проэкции типов и имплиситную резолюцию - и с болью в глазах построили для себя надстройку над языком, которая по меньшей мере выглядит как нечто поддерживающее частичное применение типов, унификацию высшего уровня и несколько секций с имплиситными параметрами.
-
 ^ To recap: we’ve taken a few basic (but still pretty broken) Scala language features — singleton types, refinement types, type projections, and the implicit resolution system — and we’ve very painfully built a language for ourselves that at least kind of looks like it supports partial type parameter application, higher-order unification, and multiple implicit parameter sections.
  
 
 ---
-
-# [fit] Мне кажется что это довольно прикольно.
-# [fit] Но я также могу понять почему
-# [fit] Многим это кажется
-# [fit] удручающим.
+# [fit] I think that’s pretty neat,
+# [fit] but I can also understand why
+# [fit] almost everyone else would find it
+# [fit] horrifying.
 -- Travis Brown
 
 ![](https://cdn.eyeem.com/thumb/900/900/934c62c288e50e609e02e11d584f3b8ea6651c78?highRes=true)
 
-^ I think that’s pretty neat, but I can also understand why almost everyone else would find it horrifying.
-
-^ Это не то почему люди начинают интересоваться скалой
-^ но это то почему некоторые из них продолжают ей интересоваться (а не уходят в хаскелль например)
+^ This is not what makes people come to scala
+^ but it is what makes some of them stay with it
 
 ---
 
@@ -117,13 +112,13 @@
 
 ![](https://avatars3.githubusercontent.com/u/3731824)
 
-^ Для тех кто ностальгирует по дням до 2.10
-^ Инкубатор новых идей
-^ Полезен для тайпсейфа (лайтбенда): они не рискуют добавить бажную фичу которую потом некому будет саппортить
-^ хорошие новости: скала скоро будет идеальной из-за эффекта третией системы (google it)
-^ Мы не компайлер-девелоперы (пока что), все работаем на работах, и абсолютно не знаем что делаем. Так что не воспринимайте то что я рассказываю как нечто финальное, етс. Вся идея этого доклада - вдохновить сотрудничество вокруг скала-компилятора.
+^ For the people who miss pre 2.10 days
+^ An incubator for new ideas
+^ Beneficial for typesafe scala: they get battle-tested contributions
+^ good news: scala will soon be perfect because of The Third System Effect
+^ Note: we aren't compiler devs yet, we have full time jobs, and really don't know what we're doing. So don't take anything here as a promise or a final decision or anything that has any level of commitment. The whole point of this talk is to inspire collaboration.
 ^ Also don't rely on our support for the same set of reasons
-^ Обратная совместимость с тайпсейф-скалой
+^ Backwards compatibility with typesafe scala
 
 ---
 
@@ -140,9 +135,9 @@
 
 - Type lambdas
 - `@implicitAmbiguous` (coming to 2.12 #4673)
-- Прямая поддержка синглтон-типов
+- Singleton types
 - -Zirrefutable-generator-patterns
-- Прочие няшки
+- Nifties
 
 ![left](https://cdn.eyeem.com/thumb/900/900/4c78f4df5242de6c55a02a8bad5345b766e66463?highRes=true)
 
@@ -175,14 +170,12 @@ trait RightFunctor[L] extends
 
 ---
 
-# [fit] Тайп-лямбды
-# [fit] классные, и все дела,
-# [fit] но в компиляторе нет ни единой
-# [fit] строчки кода написанного
-# [fit] для их поддержки
+# [fit] Type lambdas
+# [fit] are cool and all,
+# [fit] but not a single line
+# [fit] of the compiler was ever
+# [fit] written with them in mind
 -- Paul Phillips (SI-6895)
-
-^ Type lambdas are cool and all, but not a single line of the compiler was ever written with them in mind
 
 ![](https://cdn.eyeem.com/thumb/900/900/615f30b66478a6218aa3439bad83f5be9427481c?highRes=true)
 
@@ -232,7 +225,7 @@ def mkAssoc[K, V0](k: K, v0: V0): Assoc[k.type] { type V = V0 } =
 def lookup[K](k: K)(implicit a: Assoc[k.type]): a.V = a.v
 ```
 
-[^2]: Требует флаг `-Xexperimental`
+[^2]: requeires `-Xexperimental` flag
 
 ^ Adriaan's implementation
 
@@ -302,12 +295,12 @@ Some(scala.Tuple2(1, 2)).map(((x$1) => x$1 match {
 }))
 ```
 
-^ Во втором варианте есть несколько явных разниц поведения:
+^ This has a few practical differences:
 
-^ Без флага, незаматченные значения будут отфильтрованы
-^ С флагом, частичные паттерны выдадут warning, и могут бросить MatchError в рантайме (e.g `(x, 1) <- Option((1, 2))`)
-^ Без флага, слева нельзя иметь паттерны, если у штуки справа не заимплеменчен withFilter
-^ С флагом, withFilter понадобится только если использовать guard (if)
+^ Without the flag, non-matching values will be filtered out
+^ With the flag, partial patterns will trigger a warning and scala.MatchError could be thrown at runtime (e.g `(x, 1) <- Option((1, 2))`)
+^ Without the flag, you can't have patterns on the left hand side unless the right hand side has withFilter
+^ With the flag, desugaring generators in for-comprehension only needs flatMap and map; withFilter is used only for desugaring if.
 
 ---
 
@@ -331,34 +324,36 @@ val £': Byte  = 127z
 
 ---
 
-# [fit] Общее виденье
+# [fit] Vision
 :syringe: :mount_fuji:
 
 ![](https://cdn.eyeem.com/thumb/900/900/858bc4fabdc72956e045aadf29e0b58fa5162909?highRes=true)
 
-^ никаких релизова 2.10
-^ планируем скоро дропнуть 2.11, только 2.12, а то и прямиком на дотти (забутстрапился уже ж)
+^ no releases of 2.10
+^ will soon drop 2.11, 2.12 only
+^ once dotty bootstraps, will switch to it (dotty is the Third System Effect)
 ^ point is being on the bleeding edge
-^ как видите, мы в основном добавляем небольшие штуки, и тестируем их
-^ среди нас нет компайлер-разработчиков
-^ когда-нибудь мы планируем стать лучше, и работать над более интересными вещами, имеющими большой эффект
-^ compiler plugins
+^ as you can see, we're mostly adding small things and battle-testing them
+^ no one one of us is a compiler engineer
+^ eventually we plan to get better at compiler development, and work on bigger, more impactful features
+^ not to split the community
+^ compiler plugin?
 
 ---
 
 # [fit] Low-hanging fruits
 
-* конвертация тестов из partest в junit
-* документация
-* репорт багов
-* багфикс
-* бекпорт изменений из тайпсейф-скалы
+* converting partest tests to junit
+* documentation
+* Reporting bugs
+* Fixing bugs
+* Backporting changes from typesafe scala
 
 ![right](https://cdn.eyeem.com/thumb/900/900/1e1b4616c6ba643147ff572c9592d981557470bf?highRes=true)
 
 ---
 
-# [fit] Давайте пофантазируем
+# [fit] Let's fantasize a bit now
 
 ![](https://i.imgur.com/Ei14dfw.png)
 
@@ -369,7 +364,7 @@ val £': Byte  = 127z
 
 ---
 
-# [fit] Рефайнмент типы
+# [fit] Refinement types
 
 ^ can base them on top of literal-based singleton types
 ^ going to an external SMT like z3 to prove things about types
@@ -380,7 +375,7 @@ val £': Byte  = 127z
 
 ---
 
-# [fit] Рефайнмент типы
+# [fit] Refinement types
 
 ```scala
 val x: 7.type = 7
@@ -390,7 +385,7 @@ val x: 7.type = 7
 
 ---
 
-# [fit] Рефайнмент типы
+# [fit] Refinement types
 
 ```scala
 val x: (t => 7).type = 7
@@ -400,7 +395,7 @@ val x: (t => 7).type = 7
 
 ---
 
-# [fit] Рефайнмент типы
+# [fit] Refinement types
 
 ```scala
 val x: (t => t < 10 && t > 5).type = 7
@@ -410,16 +405,14 @@ val x: (t => t < 10 && t > 5).type = 7
 
 ---
 
-# [fit] Эксперименты со
-# [fit] стандартной библиотекой
+# [fit] Experiment more with stdlib
 
 ![](https://camo.githubusercontent.com/c7a1d594954b34a8277bce52343fe731b14870ad/687474703a2f2f706c61737469632d69646f6c617472792e636f6d2f6572696b2f63617473322e706e67)
 ![](https://camo.githubusercontent.com/c7a1d594954b34a8277bce52343fe731b14870ad/687474703a2f2f706c61737469632d69646f6c617472792e636f6d2f6572696b2f63617473322e706e67)
 
 ---
 
-# [fit] Интегрейшн с
-# [fit] альтернативным реплом
+# [fit] Integrating alternative repl
 
 ![](http://lihaoyi.github.io/Ammonite/GettingStarted.png)
 
@@ -427,7 +420,7 @@ val x: (t => t < 10 && t > 5).type = 7
 
 ---
 
-# Продумать заново как работают имплиситы[^3]
+# Rethinking the role of implicits[^3]
 
 ![left](http://orig03.deviantart.net/870c/f/2013/141/2/6/mr__spock__zachary_quinto__by_lei_feiyang-d65xp7b.jpg)
 
@@ -435,33 +428,34 @@ val x: (t => t < 10 && t > 5).type = 7
 
 There's a Prolog in your Scala: [http://j.mp/prolog-scala-talk](http://j.mp/prolog-scala-talk)
 
-^ Презентация Адриаана
-^ There's a prolog in your scala
+^ Adriaan's presentation
 
 ---
+
+# [fit] Hands-on
 
 ```scala
 scalaVersion      := "2.11.7"
 scalaOrganization := "org.typelevel"
 ```
 
-^ скомпилировали shapeless и cats этой версией
-^ также работает со scala.js
-^ если у кого-нибудь есть 2.11-only проект
+^ compiled shapeless and cats with this
+^ also works with scala.js
+^ who has a project that's 2.11 only?
 
 ---
 
-# [fit] Как мне законтрибьютить?
+# [fit] What do I do once I check out the repo?
 
 `sbt compile`
 `sbt test`
 `sbt partest`
 
-^ Компиляция со старта ~5mins
-^ ant билд - легаси
+^ Compiling from scratch ~5mins
+^ ant билд - legacy
 ^ `sbt publish-local`
 ^ `sbt test` ~3 minutes
-^ `sbt partest` ~1-2 hours
+^ `sbt partest` ~1 hour
 
 ![](https://cdn.eyeem.com/thumb/900/900/b3e399eb305e00d673d8db4d2a7e4a9506dbb140?highRes=true)
 
@@ -472,7 +466,7 @@ scalaOrganization := "org.typelevel"
 
 ---
 
-# [fit] В итоге
+# [fit] To summarize
 
 ^ Beneficial for typesafe and typelevel
 ^ No community splitting
@@ -484,12 +478,10 @@ scalaOrganization := "org.typelevel"
 
 ---
 
-# [fit] Спасибо!
+# [fit] Danke!
 
 ![](https://cdn.eyeem.com/thumb/900/900/cf7f3b70599927b329a4e56040f11e92084a0b40?highRes=true)
 
 @folone
 
 [https://soundcloud.com/jobs](https://soundcloud.com/jobs)
-
-
